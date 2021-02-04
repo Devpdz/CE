@@ -1,13 +1,6 @@
-[
-    {
-        "2021": {
-            "Discord": {
-                "Developer": "Dpdz Official#2891",
-                "Community": "discord.gg/YWfGHSk"
-            }
-        },
-        "2022": {
-            "null": "null"
-        }
+{
+    "discord": {
+        "Developer": "Dpdz Official#2891",
+        "Community": "discord.gg/YWfGHSk"
     }
-]
+}
