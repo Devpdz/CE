@@ -2,5 +2,32 @@
     "discord": {
         "Developer": "Dpdz Official#2891",
         "Community": "discord.gg/YWfGHSk"
-    }
+    },
+    "multitool": {
+        "language": {
+            "EN": {
+                "_help1": "Generate AOB",
+                "_help2": "Generate Message",
+                "_help3": "Tutorial",
+                "_help4": "Language"
+            },
+            "ES": {
+                "_help1": "Generar AOB",
+                "_help2": "Generar Mensaje",
+                "_help3": "Tutorial",
+                "_help4": "Lenguaje"
+            },
+            "PT": {
+                "_help1": "Gerar AOB",
+                "_help2": "Gerar Mensagem",
+                "_help3": "Tutorial",
+                "_help4": "Língua"
+            },
+            "TR": {
+                "_help1": "null",
+                "_help2": "null",
+                "_help3": "null",
+                "_help4": "null"
+            },
+                
 }
