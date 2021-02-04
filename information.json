@@ -1,8 +1,13 @@
 [
     {
-        "Discord":"discord.gg/YWfGHSk",
-        "Website":"dpdz.cf",
-        
+        "2021": {
+            "Discord": {
+                "Developer": "Dpdz Official#2891",
+                "Community": "discord.gg/YWfGHSk"
+            }
+        },
+        "2022": {
+            "null": "null"
+        }
     }
-
 ]
