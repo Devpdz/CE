@@ -27,11 +27,11 @@
                 "_help4": "Língua"
             },
             "TR": {
-                "enabled": "false",
-                "_help1": "null",
-                "_help2": "null",
-                "_help3": "null",
-                "_help4": "null"
+                "enabled": "true",
+                "_help1": "AOB Oluştur",
+                "_help2": "Mesaj Oluştur",
+                "_help3": "Eğitim",
+                "_help4": "Dil"
             },
             "RO": {
                 "enabled": "false",
@@ -71,6 +71,20 @@
             "CN": {
                 "enabled": "false",
                 "_help1": "AOB發生器",
+                "_help2": "null",
+                "_help3": "null",
+                "_help4": "null"
+            },
+            "RU": {
+                "enabled": "false",
+                "_help1": "null",
+                "_help2": "null",
+                "_help3": "null",
+                "_help4": "null"
+            },
+            "HU": {
+                "enabled": "false",
+                "_help1": "null",
                 "_help2": "null",
                 "_help3": "null",
                 "_help4": "null"
