@@ -7,87 +7,87 @@
         "language": {
             "EN": {
                 "enabled": "true",
+                "l": "Language",
                 "_help1": "Generate AOB",
                 "_help2": "Generate Message",
-                "_help3": "Tutorial",
-                "_help4": "Language"
+                "_help3": "Tutorial"
             },
             "ES": {
                 "enabled": "true",
+                "l": "Lenguaje",
                 "_help1": "Generar AOB",
                 "_help2": "Generar Mensaje",
-                "_help3": "Tutorial",
-                "_help4": "Lenguaje"
+                "_help3": "Tutorial"
             },
             "PT": {
                 "enabled": "true",
+                "l": "Língua",
                 "_help1": "Gerar AOB",
                 "_help2": "Gerar Mensagem",
-                "_help3": "Tutorial",
-                "_help4": "Língua"
+                "_help3": "Tutorial"
             },
             "TR": {
                 "enabled": "true",
+                "l": "Dil",
                 "_help1": "AOB Oluştur",
                 "_help2": "Mesaj Oluştur",
-                "_help3": "Eğitim",
-                "_help4": "Dil"
+                "_help3": "Eğitim"
             },
             "RO": {
                 "enabled": "false",
+                "l": "null",
                 "_help1": "null",
                 "_help2": "null",
-                "_help3": "null",
-                "_help4": "null"
+                "_help3": "null"
             },
             "FR": {
                 "enabled": "false",
+                "l": "null",
                 "_help1": "null",
                 "_help2": "null",
-                "_help3": "null",
-                "_help4": "null"
+                "_help3": "null"
             },
             "PL": {
                 "enabled": "false",
+                "l": "null",
                 "_help1": "null",
                 "_help2": "null",
-                "_help3": "null",
-                "_help4": "null"
+                "_help3": "null"
             },
             "AR": {
                 "enabled": "false",
+                "l": "null",
                 "_help1": "null",
                 "_help2": "null",
-                "_help3": "null",
-                "_help4": "null"
+                "_help3": "null"
             },
             "JP": {
                 "enabled": "false",
+                "l": "null",
                 "_help1": "AOBジェネレーター",
                 "_help2": "null",
-                "_help3": "null",
-                "_help4": "null"
+                "_help3": "null"
             },
             "CN": {
                 "enabled": "false",
+                "l": "null",
                 "_help1": "AOB發生器",
                 "_help2": "null",
-                "_help3": "null",
-                "_help4": "null"
+                "_help3": "null"
             },
             "RU": {
                 "enabled": "false",
+                "l": "null",
                 "_help1": "null",
                 "_help2": "null",
-                "_help3": "null",
-                "_help4": "null"
+                "_help3": "null"
             },
             "HU": {
                 "enabled": "false",
+                "l": "null",
                 "_help1": "null",
                 "_help2": "null",
-                "_help3": "null",
-                "_help4": "null"
+                "_help3": "null"
             }
         }
     }     
