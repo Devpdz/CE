@@ -6,43 +6,71 @@
     "multitool": {
         "language": {
             "EN": {
+                "enabled": "true",
                 "_help1": "Generate AOB",
                 "_help2": "Generate Message",
                 "_help3": "Tutorial",
                 "_help4": "Language"
             },
             "ES": {
+                "enabled": "true",
                 "_help1": "Generar AOB",
                 "_help2": "Generar Mensaje",
                 "_help3": "Tutorial",
                 "_help4": "Lenguaje"
             },
             "PT": {
+                "enabled": "true",
                 "_help1": "Gerar AOB",
                 "_help2": "Gerar Mensagem",
                 "_help3": "Tutorial",
                 "_help4": "Língua"
             },
             "TR": {
+                "enabled": "false",
                 "_help1": "null",
                 "_help2": "null",
                 "_help3": "null",
                 "_help4": "null"
             },
             "RO": {
+                "enabled": "false",
                 "_help1": "null",
                 "_help2": "null",
                 "_help3": "null",
                 "_help4": "null"
             },
             "FR": {
+                "enabled": "false",
                 "_help1": "null",
                 "_help2": "null",
                 "_help3": "null",
                 "_help4": "null"
             },
             "PL": {
+                "enabled": "false",
                 "_help1": "null",
+                "_help2": "null",
+                "_help3": "null",
+                "_help4": "null"
+            },
+            "AR": {
+                "enabled": "false",
+                "_help1": "null",
+                "_help2": "null",
+                "_help3": "null",
+                "_help4": "null"
+            },
+            "JP": {
+                "enabled": "false",
+                "_help1": "AOBジェネレーター",
+                "_help2": "null",
+                "_help3": "null",
+                "_help4": "null"
+            },
+            "CN": {
+                "enabled": "false",
+                "_help1": "AOB發生器",
                 "_help2": "null",
                 "_help3": "null",
                 "_help4": "null"
