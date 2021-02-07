@@ -4,7 +4,7 @@
         "Community": "discord.gg/YWfGHSk"
     },
     "multitool": {
-        "ads": "https://media.discordapp.net/attachments/800201621526675483/807757157885149184/unknown.png",
+        "ads": "false",
         "language": {
             "EN": {
                 "enabled": "true",
