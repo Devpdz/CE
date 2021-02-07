@@ -6,7 +6,7 @@
     "multitool": {
         "connected": "?",
         "popup": {
-            "updates": "true",
+            "updates": true,
             "title": "[06/02/2021] ~ Updates!",
             "message": "Turkish translation added."
         },
