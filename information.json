@@ -5,6 +5,10 @@
     },
     "multitool": {
         "ads": "false",
+        "popup": {
+            "updates": "false",
+            "message": ["Turkish translation added.", "[12/12/2021] ~ Updates!"]
+        },
         "language": {
             "EN": {
                 "enabled": "true",
