@@ -54,7 +54,7 @@
                 "_help3": "null"
             },
             "PL": {
-                "enabled": "false",
+                "enabled": false,
                 "l": "null",
                 "_help1": "null",
                 "_help2": "null",
