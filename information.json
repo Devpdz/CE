@@ -6,7 +6,7 @@
     "multitool": {
         "ads": "false",
         "popup": {
-            "updates": "false",
+            "updates": "true",
             "title": "[12/12/2021] ~ Updates!",
             "message": "Turkish translation added."
         },
