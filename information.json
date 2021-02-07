@@ -7,8 +7,8 @@
         "connected": "?",
         "popup": {
             "updates": true,
-            "title": "[06/02/2021] ~ Updates!",
-            "message": "Turkish translation added."
+            "title": "[07/02/2021] ~ Updates!",
+            "message": "Updating (generate aob), only enable EN language."
         },
         "language": {
             "EN": {
