@@ -7,7 +7,8 @@
         "ads": "false",
         "popup": {
             "updates": "false",
-            "message": ["Turkish translation added.", "[12/12/2021] ~ Updates!"]
+            "title": "[12/12/2021] ~ Updates!",
+            "message": "Turkish translation added."
         },
         "language": {
             "EN": {
