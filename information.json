@@ -15,7 +15,7 @@
             },
             "ES": {
                 "enabled": "true",
-                "l": "Lenguaje",
+                "l": "Idioma",
                 "_help1": "Generar AOB",
                 "_help2": "Generar Mensaje",
                 "_help3": "Tutorial"
